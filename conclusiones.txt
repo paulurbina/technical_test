@@ -1,0 +1,8 @@
+Conclusión
+Este proyecto de automatización con Cypress ofrece una solución eficaz para realizar pruebas de API. Utilizando Cypress y cypress-mochawesome-reporter, se simplifica la creación, ejecución y reporte de pruebas, proporcionando:
+
+Eficiencia: Reduce el tiempo en pruebas repetitivas.
+Fiabilidad: Ejecuta pruebas de manera consistente para detectar y resolver problemas rápidamente.
+Reportes Detallados: Genera reportes visuales con gráficos y capturas de pantalla.
+Facilidad de Uso: Ofrece una sintaxis sencilla y una configuración fácil de entender.
+En resumen, es una base sólida para implementar pruebas automatizadas de API de manera efectiva y eficiente.
